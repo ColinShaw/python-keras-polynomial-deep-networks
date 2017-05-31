@@ -39,8 +39,8 @@ and his [GitHub repo](https://github.com/harvitronix/neural-network-genetic-algo
 
 There are a whole slew of new ideas in this space.  Take for example the Google meta-article
 [Using Machine Learning to Explore Neural Network Architecture ](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
-and the associated articles [Large-Scale Evolution of Image Classifiers]()
-and [Neural Architecture Search with Reinforcement Learning](). This
+and the associated articles [Large-Scale Evolution of Image Classifiers](docs/RealMooreEtAl.pdf)
+and [Neural Architecture Search with Reinforcement Learning](docs/ZophLe.pdf). This
 area is ripe for explotation!
 
 All of these ideas are of great interest to me.  Ever since I started work on my 
