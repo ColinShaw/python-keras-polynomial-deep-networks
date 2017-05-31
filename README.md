@@ -37,6 +37,12 @@ Harvey has been doing and shares some success in a
 [Medium post](https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164) 
 and his [GitHub repo](https://github.com/harvitronix/neural-network-genetic-algorithm).
 
+There are a whole slew of new ideas in this space.  Take for example the Google meta-article
+[Using Machine Learning to Explore Neural Network Architecture ](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+and the associated articles [Large-Scale Evolution of Image Classifiers]()
+and [Neural Architecture Search with Reinforcement Learning](). This
+area is ripe for explotation!
+
 All of these ideas are of great interest to me.  Ever since I started work on my 
 [behavior cloning robot](https://github.com/ColinShaw/ocaml-c-behavior-cloning-robot),
 which originally used a *tiny* fully connected network for control, I have been aware that 
